@@ -1,0 +1,2 @@
+/Users/edison/Downloads/payapp/android/app/.cxx/RelWithDebInfo/5133162q/x86_64/CMakeFiles/edit_cache.dir
+/Users/edison/Downloads/payapp/android/app/.cxx/RelWithDebInfo/5133162q/x86_64/CMakeFiles/rebuild_cache.dir

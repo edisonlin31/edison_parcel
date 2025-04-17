@@ -1,0 +1,2 @@
+/Users/edison/Downloads/payapp/android/app/.cxx/RelWithDebInfo/5133162q/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/edison/Downloads/payapp/android/app/.cxx/RelWithDebInfo/5133162q/armeabi-v7a/CMakeFiles/rebuild_cache.dir
